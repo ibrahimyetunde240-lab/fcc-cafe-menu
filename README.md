@@ -29,7 +29,7 @@ This project features a cafe menu displaying different coffee flavors and desser
 
 ## Live Demo
 
-[View Cafe Menu](https://ibrahimyetunde240-lab.github.io/cafe-menu/)
+[View Cafe Menu](https://ibrahimyetunde240-lab.github.io/fcc-cafe-menu/
 
 ## Source
 
